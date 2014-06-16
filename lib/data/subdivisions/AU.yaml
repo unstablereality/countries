@@ -2,18 +2,42 @@
 ACT:
   name: "Australian Capital Territory"
   names: "Australian Capital Territory"
+ADL:
+  name: Adelaide
+  names: Adelaide
+BNE:
+  name: Brisbane
+  names: Brisbane
+CBR:
+  name: Canberra
+  names: Canberra
+DRW:
+  name: Darwin
+  names: Darwin
+HBA:
+  name: Hobart
+  names: Hobart
+MEB:
+  name: Melbourne
+  names: Melbourne
 NSW:
   name: "New South Wales"
   names: "New South Wales"
 NT:
   name: "Northern Territory"
   names: "Northern Territory"
+PER:
+  name: Perth
+  names: Perth
 QLD:
   name: Queensland
   names: Queensland
 SA:
   name: "South Australia"
   names: "South Australia"
+SYD:
+  name: Sydney
+  names: Sydney
 TAS:
   name: Tasmania
   names: Tasmania
